@@ -1,2 +1,2 @@
 # aadil-akhtar.github.io
-Resume
+basic website
